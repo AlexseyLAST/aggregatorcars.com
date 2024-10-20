@@ -1,0 +1,27 @@
+.news__list{
+    margin-top: 20px;
+}
+
+.news__block{
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.news__block img{
+    width: 380px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.news__blockInfo{
+    width: 500px;
+}
+
+.news__data{
+    font-size: 15;
+    font-weight: 700;
+    color: var(--secondary);
+    margin-top: 8px;
+}
